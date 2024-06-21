@@ -1,4 +1,3 @@
-<img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
     <a href="https://t.me/w0vtRXIF4W" style="font-size: 36px;">NEW TELEGRAM CHANNEL</a>
@@ -59,7 +58,7 @@
 
 ### Setup
 
-1. [Download source code zip](https://github.com/addi00000/empyrean/archive/refs/heads/main.zip)
+1. [Download source code zip]
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `build.bat` file
