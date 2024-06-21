@@ -48,13 +48,6 @@
     -   Place stub in appdata
     -   Add to startup registry
 
-## Install
-
-### Prerequisites
-
--   Windows 10/11
--   [Python](https://www.python.org/downloads/release/python-3109/)
--   [Git](https://git-scm.com/download/win)
 
 ### Setup
 
@@ -83,7 +76,4 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 
 ## Errors?
 
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Telegram](https://t.me/w0vtRXIF4W)
-
-<img src="img/footer.png">
+discord https://discord.gg/QtGGSAabgn
