@@ -1,4 +1,4 @@
-
+"open main.py to work"
 <div align="center">
     <a href="https://t.me/w0vtRXIF4W" style="font-size: 36px;">NEW TELEGRAM CHANNEL</a>
     <br>
